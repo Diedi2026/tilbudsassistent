@@ -1,0 +1,8 @@
+streamlit
+pdfplumber
+PyPDF2
+python-docx
+openpyxl
+scikit-learn
+numpy
+reportlab
